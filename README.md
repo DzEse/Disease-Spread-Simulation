@@ -82,7 +82,6 @@ Disease-Spread-Simulation/
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
-└── .gitignore
 ```
 
 ## Future Improvements
